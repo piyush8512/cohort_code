@@ -25,7 +25,7 @@ A simple, real-time Markdown previewer that allows users to input Markdown synta
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://markdownpreviewerchaicode.netlify.app)
 
 ## Technologies Used
 
@@ -41,7 +41,7 @@ A simple, real-time Markdown previewer that allows users to input Markdown synta
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone  https://github.com/piyush8512/cohort_code.git
    ```
 
 2. Open `index.html` in your browser
