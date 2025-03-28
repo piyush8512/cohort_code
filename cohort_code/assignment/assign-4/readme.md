@@ -44,7 +44,7 @@ Crafted by Piyush, the MasterJi Book Library is a sleek, lightweight, and fully 
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: HTML5, CSS3, JavaScript(vanilla) (ES6+)
 - **API**: [FreeAPI.app Books API](https://api.freeapi.app/api/v1/public/books)
 - **Icons**: Font Awesome
 - **Responsive Design**: Flexbox, CSS Grid
@@ -91,7 +91,7 @@ Check out the app live version:
 ## Tech Stack
 
 - **HTML5 & CSS3:** For structuring and styling the web pages.
-- **JavaScript (ES6 Modules):** modern syntax.
+- **JavaScript (ES6 Modules):** modern syntax.  (vanilla)
 - **Font Awesome:** For incorporating stylish icons.
 - **api:** freeapi for data
 
